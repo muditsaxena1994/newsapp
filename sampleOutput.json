@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Paul Sawers",
+    "title": "UK greenlights $7.3B merger between satellite rivals Viasat and Inmarsat",
+    "description": "The U.K.’s Competition and Markets Authority has officially greenlighted the proposed $7.3 billion merger between Viasat and Inmarsat.",
+    "url": "https://techcrunch.com/2023/05/09/uk-greenlights-7-3b-merger-between-viasat-and-inmarsat/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-635647138.jpg?resize=1200,800",
+    "publishedAt": "2023-05-09T10:40:48Z",
+    "content": "The U.K.s Competition and Markets Authority (CMA) has officially greenlighted the proposed $7.3 billion merger between Viasat and Inmarsat.\r\nLondon-based Inmarsat and its U.S. rival Viasat offer vari… [+1850 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rita Liao",
+    "title": "TikTok's parent ByteDance eyes a new chapter, in book publishing",
+    "description": "After aggressively promoting its new lifestyle social media platform Lemon8 in the U.S., ByteDance appears to be brewing another content app for its biggest overseas market. Lemon Inc, a subsidiary of ByteDance, has submitted a trademark application for a ran…",
+    "url": "https://techcrunch.com/2023/05/09/tiktoks-parent-bytedance-eyes-a-new-chapter-in-book-publishing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1243240042-1.jpg?resize=1200,800",
+    "publishedAt": "2023-05-09T07:16:37Z",
+    "content": "After aggressively promoting its new lifestyle social media platform Lemon8 in the U.S., ByteDance appears to be brewing another content app for its biggest overseas market.\r\nLemon Inc, a subsidiary … [+5004 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "Porsche taps Mobileye for automated driving functions in future models",
+    "description": "Porsche has partnered with Mobileye to bring hands-free automated assistance and navigation functions to future sports cars.",
+    "url": "https://techcrunch.com/2023/05/09/porsche-taps-mobileye-for-automated-driving-functions-in-future-models/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/MBLYimage2.jpeg?resize=1200,564",
+    "publishedAt": "2023-05-09T06:44:31Z",
+    "content": "Porsche has partnered with Mobileye, the autonomous driving unit that Intel spun out into a public company last year, to bring hands-free automated assistance and navigation functions to future sport… [+3155 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "WhatsApp now allows Singapore based users to pay businesses within the app",
+    "description": "WhatsApp is launching the ability for users to pay business through a chat in Singapore in partnership with Stripe.",
+    "url": "https://techcrunch.com/2023/05/08/whatsapp-now-allows-singapore-based-users-to-pay-businesses-within-the-app/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/FvprGVXaMAAiepc.jpeg?resize=1200,675",
+    "publishedAt": "2023-05-09T05:21:59Z",
+    "content": "After India and Brazil, WhatsApp is launching the ability to pay businesses within a chat in Singapore. Meta has partnered with Stripe to roll out the feature in the region.\r\nWhatsApp has built this … [+1868 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "IBM intros a slew of new AI services, including generative models",
+    "description": "At its annual Think conference, IBM unveiled a slew of new AI apps and services centered around generative AI in particular.",
+    "url": "https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
+    "publishedAt": "2023-05-09T04:51:57Z",
+    "content": "IBM, like pretty much every tech giant these days, is betting big on AI.\r\nAt its annual Think conference, the company announced IBM Watsonx, a new platform that delivers tools to build AI models and … [+7742 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Catherine Shu",
+    "title": "LinkedIn cuts 716 jobs as it phases out its China app",
+    "description": "LinkedIn is cutting 716 jobs and will begin phasing out its local jobs app in China. In a letter today, LinkedIn CEO Ryan Roslanky said the decision to shutter the standalone China app, called InCareer, was because of “fierce competition and a challenging mac…",
+    "url": "https://techcrunch.com/2023/05/08/linkedin-layoffs/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434.jpg?resize=1200,800",
+    "publishedAt": "2023-05-09T04:36:39Z",
+    "content": "LinkedIn is cutting 716 jobs and will begin phasing out its local jobs app in China. In a letter today, LinkedIn CEO Ryan Roslanky said the decision to shutter the standalone China app, called InCare… [+2610 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Amanda Silberling",
+    "title": "Niantic's new game Peridot is Pokémon GO meets Tamagotchi",
+    "description": "Like a ‘90s Tamagotchi toy, Peridot is a pet simulator, but it takes place completely within augmented reality.",
+    "url": "https://techcrunch.com/2023/05/09/peridot-review-niantic/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/unnamed.jpg?resize=1200,675",
+    "publishedAt": "2023-05-09T04:04:07Z",
+    "content": "From the makers of Pokémon GO comes another mobile game that brings cute little creatures to our fingertips: Peridot.\r\nLike a 90s Tamagotchi toy, Peridot is a pet simulator, but it takes place comple… [+5522 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "Tesla's new Texas lithium refinery to support 1M electric vehicles by 2025",
+    "description": "Tesla officially broke ground Monday on a Texas lithium refinery, making it the only U.S. automaker to refine its own lithium.",
+    "url": "https://techcrunch.com/2023/05/08/teslas-new-texas-lithium-refinery-to-support-1m-electric-vehicles-by-2025/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-09-at-1.14.49-pm.png?resize=1200,679",
+    "publishedAt": "2023-05-09T01:28:20Z",
+    "content": "Tesla officially broke ground Monday on a Texas lithium refinery, making it the only U.S. automaker to refine its own lithium.\r\nCEO Elon Musk said the refinery will produce enough battery grade lithi… [+2656 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson",
+    "title": "Hidden in plain sight: 5 red flags for investors",
+    "description": "Even the most experienced angel investors and VCs can overlook red flags that are not immediately apparent.",
+    "url": "https://techcrunch.com/2023/05/09/hidden-in-plain-sight-5-red-flags-for-investors/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325835153.jpg?resize=1200,798",
+    "publishedAt": "2023-05-08T21:19:23Z",
+    "content": "More posts by this contributor\r\nAfter viewing thousands of presentations and pitch decks over many years, even the most experienced angel investors and VCs can overlook red flags that are subtle and … [+2191 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Paul Sawers",
+    "title": "Prewave pulls in $20M as supply chain tech investments remain on VC radars",
+    "description": "Despite VC caution in the broader startup investment sphere, startups focused on improving the global supply chain are doing rather well.",
+    "url": "https://techcrunch.com/2023/05/08/prewave-pulls-in-20m-as-supply-chain-tech-investments-remain-on-vc-radars/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-594832777.jpg?resize=840,1200",
+    "publishedAt": "2023-05-08T17:13:56Z",
+    "content": "Despite the investor caution narrative permeating the startup world throughout the economic downturn, certain startup-types have been a little more impervious to market conditions. The global supply … [+4898 chars]"
+    }
+    ]
+    }
